@@ -1,7 +1,10 @@
-.carousel-inner > .item > img, .carousel-inner > .item > a > img {
-    display: block;
-    height: auto;
-    line-height: 1;
-    margin: 0 auto;
-    max-width: 100%;
+img{
+    width: 100%;
+}
+.titulo{
+    background-image: url(https://placekitten.com/1400/500);
+    padding: 10% 20%;
+}
+h1.titulo{
+    text-align: center;
 }
